@@ -24,15 +24,6 @@ function modifyMain(url, data) {
             return JSON.stringify(dataModify);
         }
     }
-
-    // 发现页面刷新，再次点击发现按钮
-    if (url.indexOf(url2) > -1 || url.indexOf(url3) > -1) {
-        if (dataModify.items) {
-            // 1、下标是1的为热搜模块
-            console.log('刷新发现页，移除热搜广告🤣🤣');
-            dataModify.items[1].data.group = removeHotSearchAds(dataModify.items[1].data.group);
-
-
             // 2、下标为2的是轮播图模块
             dataModify.items[2] = {};
             console.log('刷新发现页，移除轮播模块🤣🤣');
