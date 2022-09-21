@@ -3,7 +3,7 @@
 
 
 [MITM]
-hostname = %APPEND% api.weibo.cn,api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, -*.weibo.com
+hostname = %APPEND% api.weibo.cn, mapi.weibo.com, *.uve.weibo.com, -*.weibo.com
 
 [Script]
 微博去广告 = type=http-response,pattern=^https://api.weibo.cn/2/search/(finder|container_timeline|container_discover),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/Hpxwd/Surge/main/Js/wb-ad.js,script-update-interval=0
