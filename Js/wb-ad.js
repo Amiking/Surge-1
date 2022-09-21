@@ -17,11 +17,6 @@ function modifyMain(url, data) {
     if (url.indexOf(url1) > -1) {
         if (dataModify.channelInfo && dataModify.channelInfo.channels
             && dataModify.channelInfo.channels[0].payload && dataModify.channelInfo.channels[0].payload.items) {
-
-            // 2、下标为2的是轮播图模块
-            dataModify.channelInfo.channels[0].payload.items[2] = {};
-            console.log('进入发现页，移除轮播模块💕💕');
-            return JSON.stringify(dataModify);
         }
     }
 
