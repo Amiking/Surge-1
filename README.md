@@ -19,6 +19,7 @@
 |:white_check_mark:流媒体检测|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Stream-All)|信息面板
 |:white_check_mark:网络信息|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Network-Info)|信息面板
 
+</details>
 
  <details>
   <summary>:key:声明</summary>
@@ -32,6 +33,7 @@
 
 * 任何以任何方式查看此项目的人或直接或间接使用该项目的任何脚本的使用者都应仔细阅读此声明。保留随时更改或补充此免责声明的权利。直接或间接使用本项目内容的个人或组织，视为接受本项目的特别声明。
 
+</details>
 
 # 感谢：
 
