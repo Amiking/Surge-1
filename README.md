@@ -38,15 +38,12 @@
 <details>
 
 <summary>感谢</summary>
-# 感谢：
 
 以下排名不分先后
 
 * [@deezertidal](https://github.com/deezertidal)
 
 * [@ddgksf2013](https://github.com/ddgksf2013)
-
-
 
 * [@Tartarus2014](https://github.com/Tartarus2014)
 
