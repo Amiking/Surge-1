@@ -31,7 +31,7 @@
 |:white_check_mark:广告拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list)|REJECT-TINYGIF
 |:white_check_mark:域名拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/AdvertisingPlus.list)|REJECT
 |:white_check_mark:隐私保护|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list)|REJECT-TINYGIF
-|:white_check_mark:运营商劫持|[链接地址])|(https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list)|REJECT
+|:white_check_mark:运营商劫持|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list)|REJECT-TINYGIF
 |:white_check_mark:国际流媒体服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list)|PROXY
 |:white_check_mark:全球加速|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list)|PROXY
 |:white_check_mark:苹果服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list)|PROXY
