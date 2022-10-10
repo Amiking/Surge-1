@@ -3,7 +3,7 @@
 <details>
    <summary>模块及说明</summary>    
    
-|:octocat:模块|:link:链接|:pushpin:说明|
+|:dog:模块|:link:链接|:pushpin:说明|
 |--|--|--|
 |:white_check_mark:AllInOne|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/AllInOne)|去广告+重定向
 |:white_check_mark:哔哩哔哩|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Bilibili.sgmodule)|去广告+高画质
