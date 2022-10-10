@@ -1,7 +1,7 @@
 # Surge模块    
 
 所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出。
-![Image text](https://raw.githubusercontent.com/deezertidal/private/main/icons/surge.png)
+![Image text](https://raw.githubusercontent.com/Hpxwd/Surge/blob/main/Surge.png)
 <details>
    <summary>模块及说明</summary>    
    
