@@ -1,7 +1,7 @@
 # Surge模块    
 
 <details>
-   <summary>:key:模块及说明</summary>    
+   <summary>模块及说明</summary>    
    
 |:octocat:模块|:link:链接|:pushpin:说明|
 |--|--|--|
