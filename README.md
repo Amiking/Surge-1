@@ -36,8 +36,6 @@
 |:white_check_mark:全球加速|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list)|PROXY
 |:white_check_mark:苹果服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list)|PROXY
 |:white_check_mark:微信&WeChat|[链接地址](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/WeChat.list)|DIRECT
-|:white_check_mark:GEOIP|[链接地址](https://raw.githubusercontent.com/unknownTokyo/GeoIP/release/Country.mmdb
-)|DIRECT
 |:white_check_mark:China.ASN|[链接地址](https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list)|DIRECT
 
 </details>
