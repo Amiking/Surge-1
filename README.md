@@ -5,7 +5,7 @@
 
 :sheep: 模块及说明
    
-|:dog: 模块|:link: 链接|:pushpin: 说明|
+|模块|链接|说明|
 |--|--|--|
 |:cupid:AdvertisingLite|[链接地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule)|去广告
 |:cupid:Redirect|[链接地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/Redirect/Redirect.sgmodule)|重定向
