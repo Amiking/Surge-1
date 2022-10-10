@@ -1,5 +1,7 @@
 # Surge模块    
 
+所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出。
+
 <details>
    <summary>模块及说明</summary>    
    
