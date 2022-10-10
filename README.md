@@ -23,9 +23,9 @@
 
 </details>
 
-:sheep: 模块及说明
+:sheep: 分流及策略
    
-|:dog: 模块|:link: 链接|:pushpin: 说明|
+|:dog: 分流|:link: 链接|:pushpin: 策略|
 |--|--|--|
 |:white_check_mark:规则修正|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list)|SIRECT
 |:white_check_mark:广告拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list)|REJECT-TINYGIF
