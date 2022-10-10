@@ -27,16 +27,16 @@
    
 |:dog: 分流|:link: 链接|:pushpin: 策略|
 |--|--|--|
-|:white_check_mark:规则修正|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list)|SIRECT
-|:white_check_mark:广告拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list)|REJECT-TINYGIF
-|:white_check_mark:域名拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/AdvertisingPlus.list)|REJECT
-|:white_check_mark:隐私保护|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list)|REJECT-TINYGIF
-|:white_check_mark:运营商劫持|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list)|REJECT-TINYGIF
-|:white_check_mark:国际流媒体服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list)|PROXY
-|:white_check_mark:全球加速|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list)|PROXY
-|:white_check_mark:苹果服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list)|PROXY
-|:white_check_mark:微信&WeChat|[链接地址](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/WeChat.list)|DIRECT
-|:white_check_mark:China.ASN|[链接地址](https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list)|DIRECT
+|:white_check_mark:规则修正|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list)|RULE-SET:DIRECT
+|:white_check_mark:广告拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list)|RULE-SET:REJECT-TINYGIF
+|:white_check_mark:域名拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/AdvertisingPlus.list)|DOMAIN-SET:REJECT
+|:white_check_mark:隐私保护|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list)|RULE-SET:REJECT-TINYGIF
+|:white_check_mark:运营商劫持|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list)|RULE-SET:REJECT-TINYGIF
+|:white_check_mark:国际流媒体服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list)|RULE-SET:PROXY
+|:white_check_mark:全球加速|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list)|RULE-SET:PROXY
+|:white_check_mark:苹果服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list)|RULE-SET:PROXY
+|:white_check_mark:微信&WeChat|[链接地址](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/WeChat.list)|RULE-SET:DIRECT
+|:white_check_mark:China.ASN|[链接地址](https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list)|RULE-SET:DIRECT
 
 </details>
 
@@ -51,28 +51,20 @@
 
 * [@Tartarus2014](https://github.com/Tartarus2014)
 
-* [@I-am-R-E](https://github.com/I-am-R-E)
-
-* [@yqc007](https://github.com/yqc007)
-
 * [@Orz](https://github.com/Orz-3/mini)
 
 * [@NobyDa](https://github.com/NobyDa)
-
-* [@lhie1](https://github.com/lhie1)
 
 * [@chavyleung](https://github.com/chavyleung)
 
 * [@yichahucha](https://github.com/yichahucha)
 
-* [@langkhach270389](https://github.com/langkhach270389)
-
 * [@zZPiglet](https://github.com/zZPiglet/Task.git)
 
 * [@Peng-YM](https://github.com/Peng-YM/QuanX)
 
-* [@lowking](https://github.com/lowking/Scripts)
-
 * [@githubdulong](https://github.com/githubdulong/Script)
+
+* [@DivineEngine](https://github.com/DivineEngine)
 
  </details>
