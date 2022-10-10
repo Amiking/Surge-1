@@ -3,7 +3,7 @@
 所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出。
 ![Image text](https://raw.githubusercontent.com/Hpxwd/Surge/main/Surge.png)
 
-:sheep: 模块及说明
+:baby_bottle: 模块及说明
    
 |模块|链接|说明|
 |--|--|--|
@@ -23,7 +23,7 @@
 
 </details>
 
-:sheep: 分流及策略
+:baby_bottle: 分流及策略
    
 |分流|链接|策略|
 |--|--|--|
