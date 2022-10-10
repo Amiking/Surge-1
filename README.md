@@ -7,7 +7,8 @@
    
 |:dog: 模块|:link: 链接|:pushpin: 说明|
 |--|--|--|
-|:white_check_mark:AllInOne|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/AllInOne)|去广告+重定向
+|:white_check_mark:AdvertisingLite|[链接地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule)|去广告
+|:white_check_mark:Redirect|[链接地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/Redirect/Redirect.sgmodule)|重定向
 |:white_check_mark:哔哩哔哩|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Bilibili.sgmodule)|去广告+高画质
 |:white_check_mark:微博|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Weibo.sgmodule)|去广告
 |:white_check_mark:知乎|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Zhihu.sgmodule)|去广告
