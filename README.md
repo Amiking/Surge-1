@@ -5,17 +5,16 @@
    
 |:octocat:模块|:link:链接|:pushpin:说明|
 |--|--|--|
-|:white_check_mark:AllInOne|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/AllInOne)|信息面板
-|:white_check_mark:accuweather解锁|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/accu.module)|天气app
-|:white_check_mark:AdBlock|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/AdBlock.module)|整体去广告
-|:white_check_mark:alarmy|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/alarmy.module)|使命闹钟
-|:white_check_mark:aloha|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/aloha.module)|VPN隐私浏览器
-|:white_check_mark:爱美剧|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/amj.module)|影视app 去广告+解锁部分会员功能
-|:white_check_mark:Background Eraser|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/aosoft.module)|抠图app
-|:white_check_mark:appraven|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/appraven.module)|应用市场
-|:white_check_mark:audiomack|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/audiomack.module)|音乐相关app
-|:white_check_mark:b612相机|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/b612.module)|相机编辑app
-|:white_check_mark:百度云倍速|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/baiducloud.sgmodule)|百度云倍率播放
-|:white_check_mark:白描|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/baimiao.module)|OCR扫描app
-|:white_check_mark:bazaart|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bazaart.module)|照片编辑
-|:white_check_mark:布丁锁屏|[:link:链接地址](https://raw.githubusercontent.com/deezertidal/shadowrocket-rules/main/modules/bdsp.module)|桌面美化类
+|:white_check_mark:AllInOne|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/AllInOne)|去广告+重定向
+|:white_check_mark:哔哩哔哩|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Bilibili.sgmodule)|去广告+高画质
+|:white_check_mark:微博|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Weibo.sgmodule)|去广告
+|:white_check_mark:知乎|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Zhihu.sgmodule)|去广告
+|:white_check_mark:贴吧|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Tieba)|去广告
+|:white_check_mark:TestFlight账户管理|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/TestFlight)|自动存储/合并多个tf账户列表
+|:white_check_mark:Sub-Store|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Sub-Store)|高级订阅管理工具
+|:white_check_mark:京东比价|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/JD_Price)|京东历史价格
+|:white_check_mark:Advanced Settings & URL Redirect|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/General)|高级设置及通用的URL重定向优化
+|:white_check_mark:微信公众号|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/WeChat)|去广告
+|:white_check_mark:Boxjs|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Boxjs)|boxjs
+|:white_check_mark:流媒体检测|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Stream-All)|信息面板
+|:white_check_mark:网络信息|[:link:链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Network-Info)|信息面板
