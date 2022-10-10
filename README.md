@@ -7,7 +7,7 @@
    
 |模块|链接|说明|
 |--|--|--|
-|:cupid:AdvertisingLite|[链接地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule)|去广告
+|:cupid:Advertising|[链接地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/AdvertisingLite/AdvertisingLite.sgmodule)|去广告
 |:cupid:Redirect|[链接地址](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/Surge/Redirect/Redirect.sgmodule)|重定向
 |:cupid:哔哩哔哩|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Bilibili.sgmodule)|去广告+高画质
 |:cupid:微博|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Weibo.sgmodule)|去广告
@@ -36,7 +36,7 @@
 |:love_letter:全球加速|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list)|RULE-SET:PROXY
 |:love_letter:苹果服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list)|RULE-SET:PROXY
 |:love_letter:微信&WeChat|[链接地址](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/WeChat.list)|RULE-SET:DIRECT
-|:love_letter:China.ASN|[链接地址](https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list)|RULE-SET:DIRECT
+|:love_letter:ASN|[链接地址](https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list)|RULE-SET:DIRECT
 
 </details>
 
