@@ -13,7 +13,7 @@
 |:cupid:微博|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Weibo.sgmodule)|去广告
 |:cupid:知乎|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Zhihu.sgmodule)|去广告
 |:cupid:贴吧|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Tieba)|去广告
-|:cupid:TestFlight账户管理|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/TestFlight)|tf账户存储/合并
+|:cupid:TestFlight账户管理|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/TestFlight)|TF账户存储/合并
 |:cupid:Sub-Store|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Sub-Store)|高级订阅管理工具
 |:cupid:京东比价|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/JD_Price)|京东历史价格
 |:cupid:微信公众号|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/WeChat)|去广告
