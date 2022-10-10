@@ -57,4 +57,6 @@
 
 * [@lowking](https://github.com/lowking/Scripts)
 
+* [@githubdulong](https://github.com/githubdulong/Script)
+
  </details>
