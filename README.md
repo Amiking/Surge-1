@@ -13,7 +13,7 @@
 |:cupid:微博|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Weibo.sgmodule)|去广告
 |:cupid:知乎|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Zhihu.sgmodule)|去广告
 |:cupid:贴吧|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Tieba)|去广告
-|:cupid:TestFlight账户管理|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/TestFlight)|自动存储/合并多个tf账户列表
+|:cupid:TestFlight账户管理|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/TestFlight)|tf账户存储/合并
 |:cupid:Sub-Store|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Sub-Store)|高级订阅管理工具
 |:cupid:京东比价|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/JD_Price)|京东历史价格
 |:cupid:微信公众号|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/WeChat)|去广告
@@ -25,18 +25,18 @@
 
 :sheep: 分流及策略
    
-|:dog: 分流|:link: 链接|:pushpin: 策略|
+|分流|链接|策略|
 |--|--|--|
-|:white_check_mark:规则修正|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list)|RULE-SET:DIRECT
-|:white_check_mark:广告拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list)|RULE-SET:REJECT-TINYGIF
-|:white_check_mark:域名拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/AdvertisingPlus.list)|DOMAIN-SET:REJECT
-|:white_check_mark:隐私保护|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list)|RULE-SET:REJECT-TINYGIF
-|:white_check_mark:运营商劫持|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list)|RULE-SET:REJECT-TINYGIF
-|:white_check_mark:国际流媒体服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list)|RULE-SET:PROXY
-|:white_check_mark:全球加速|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list)|RULE-SET:PROXY
-|:white_check_mark:苹果服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list)|RULE-SET:PROXY
-|:white_check_mark:微信&WeChat|[链接地址](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/WeChat.list)|RULE-SET:DIRECT
-|:white_check_mark:China.ASN|[链接地址](https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list)|RULE-SET:DIRECT
+|:love_letter:规则修正|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list)|RULE-SET:DIRECT
+|:love_letter:广告拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list)|RULE-SET:REJECT-TINYGIF
+|:love_letter:域名拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/AdvertisingPlus.list)|DOMAIN-SET:REJECT
+|:love_letter:隐私保护|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list)|RULE-SET:REJECT-TINYGIF
+|:love_letter:运营商劫持|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list)|RULE-SET:REJECT-TINYGIF
+|:love_letter:国际流媒体服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Streaming.list)|RULE-SET:PROXY
+|:love_letter:全球加速|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Global.list)|RULE-SET:PROXY
+|:love_letter:苹果服务|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Extra/Apple/Apple.list)|RULE-SET:PROXY
+|:love_letter:微信&WeChat|[链接地址](https://raw.githubusercontent.com/NobyDa/Script/master/Surge/WeChat.list)|RULE-SET:DIRECT
+|:love_letter:China.ASN|[链接地址](https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list)|RULE-SET:DIRECT
 
 </details>
 
