@@ -44,9 +44,9 @@
    
 |APP|链接|说明|
 |--|--|--|
-|:love_letter:Spark|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Unbreak.list)|RULE-SET:DIRECT
-|:love_letter:广告拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list)|RULE-SET:REJECT-TINYGIF
-|:love_letter:域名拦截|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/AdvertisingPlus.list)|DOMAIN-SET:REJECT
+|:love_letter:Spark|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Spark.sgmodule)|建议先试用
+|:love_letter:Fileball|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list)|RULE-SET:REJECT-TINYGIF
+|:love_letter:Aptv|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/AdvertisingPlus.list)|DOMAIN-SET:REJECT
 |:love_letter:隐私保护|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list)|RULE-SET:REJECT-TINYGIF
 
 </details>
