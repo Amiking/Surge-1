@@ -44,11 +44,10 @@
    
 |APP|链接|说明|
 |--|--|--|
-|:love_letter:Spark|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Spark.sgmodule)|建议先试用
-|:love_letter:Fileball|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Advertising.list)|RULE-SET:REJECT-TINYGIF
-|:love_letter:Aptv|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/AdvertisingPlus.list)|DOMAIN-SET:REJECT
-|:love_letter:隐私保护|[链接地址](https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list)|RULE-SET:REJECT-TINYGIF
-
+|:love_letter:Spark|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Spark.sgmodule)|邮件管理
+|:love_letter:Fileball|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Fileball)|Emby播放
+|:love_letter:Aptv|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Aptv)|直播源播放
+|:love_letter:KuWo|[链接地址](https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Surge.sgmodule)|音乐播放
 </details>
 
         ✨ 致谢来源及其他未注仓库 ✨
@@ -75,5 +74,7 @@
 * [@githubdulong](https://github.com/githubdulong/Script)
 
 * [@DivineEngine](https://github.com/DivineEngine)
+
+* [@I-am-R-E](https://github.com/I-am-R-E)
 
  </details>
