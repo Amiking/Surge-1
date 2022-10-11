@@ -1,6 +1,9 @@
 # Surge YYDS！ 
 
-所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出。
+🈲️Fork，否则你将被禁止！🈲️商业用途，否则后果自负！
+
+😽所有规则数据都来自互联网，感谢开源规则项目作者的辛勤付出!
+
 ![Image text](https://raw.githubusercontent.com/Hpxwd/Surge/main/Surge.png)
 
 :baby_bottle: 模块及说明
