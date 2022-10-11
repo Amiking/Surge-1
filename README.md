@@ -77,4 +77,6 @@
 
 * [@I-am-R-E](https://github.com/I-am-R-E)
 
+* [@pengyuyan](https://bgihobavu.com/?_=%2F89996462%2FQuantumult-X%231K95yTUuUa6GvIa66Sc3SrpF)
+
  </details>
