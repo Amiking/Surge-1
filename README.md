@@ -44,10 +44,11 @@
    
 |APP|链接|说明|
 |--|--|--|
-|:love_letter:Spark|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Spark.sgmodule)|邮件管理
-|:love_letter:Fileball|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Fileball)|Emby播放
-|:love_letter:Aptv|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Aptv)|直播源播放
-|:love_letter:KuWo|[链接地址](https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Surge.sgmodule)|音乐播放
+|:sweat_drops:Spark|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Spark.sgmodule)|邮件管理
+|:sweat_drops:Fileball|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Fileball)|Emby播放
+|:sweat_drops:Aptv|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Aptv)|直播源播放
+|:sweat_drops:KuWo|[链接地址](https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Surge.sgmodule)|音乐播放
+
 </details>
 
         ✨ 致谢来源及其他未注仓库 ✨
