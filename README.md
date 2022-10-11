@@ -51,8 +51,6 @@
 
 * [@Tartarus2014](https://github.com/Tartarus2014)
 
-* [@Orz](https://github.com/Orz-3/mini)
-
 * [@NobyDa](https://github.com/NobyDa)
 
 * [@chavyleung](https://github.com/chavyleung)
