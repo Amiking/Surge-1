@@ -56,7 +56,7 @@ BiliBili_我的页面处理 = type=http-response,requires-body=1,max-size=0,patt
 知乎_评论去广告 = type=http-response,requires-body=1,max-size=0,pattern=^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/(comment_v5\/)?(answers|comments?|articles|pins)\/\d+\/(root_|child_)?comments?,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu.js
 知乎_解锁关键词屏蔽 = type=http-request,requires-body=1,max-size=0,pattern=^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/feed-root\/block,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu.js
 知乎_移除推荐页顶部项 = type=http-request,requires-body=1,max-size=0,pattern=^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/feed-root\/sections\/query\/v2,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu.js
-酷安 = type=http-response,pattern=^https?:\/\/api\.coolapk\.com\/v6\/(feed\/(replyList|detail)|main\/indexV8|dataList),requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/coolapk.js,script-update-interval=0,max-size=0
+酷安去广告 = type=http-response,pattern=^https?:\/\/api\.coolapk\.com\/v6\/(feed\/(replyList|detail)|main\/indexV8|dataList),requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/coolapk.js,script-update-interval=0,max-size=0
 
 [MITM]
 hostname = %APPEND% api.coolapk.com, list-app-m.i4.cn, m.client.10010.com, amap-aos-info-nogw.amap.com, *.uve.weibo.com, mp.weixin.qq.com, tiebac.baidu.com, app.bilibili.com,api.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, api.m.jd.com, www.zhihu.com,api.zhihu.com,zhuanlan.zhihu.com,appcloud2.zhihu.com,103.41.167.236,103.41.167.234,103.41.167.235,103.41.167.226
@@ -76,8 +76,6 @@ URL-REGEX,^https?:\/\/api\.m\.jd\.com\/client\.action\?functionId=start$,REJECT-
 # 高德地图
 URL-REGEX,^https:\/\/amap-aos-info-nogw\.amap\.com\/ws\/aos\/alimama\/splash_screen_rt\?ent=2$,REJECT
 DOMAIN,mbdp02.bdstatic.com,REJECT-TINYGIF
-# 酷安去热搜
-URL-REGEX,^https:\/\/api\.coolapk\.com\/v6\/search\?refresh=0&type=hotSearch&returnType=all$,REJECT-TINYGIF
 # < 贴吧去广告分流
 RULE-SET,https://raw.githubusercontent.com/app2smile/rules/master/rule/tieba-ad.list,REJECT-DROP
 # < 哔哩哔哩分流去广告
