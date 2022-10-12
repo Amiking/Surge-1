@@ -53,6 +53,7 @@
 |:sweat_drops:Fileball|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Fileball)|Emby播放
 |:sweat_drops:Aptv|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Aptv)|直播源播放
 |:sweat_drops:KuWo|[链接地址](https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Surge.sgmodule)|音乐播放
+|:sweat_drops:Picsew|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Picsew)|截图
 
 </details>
 
