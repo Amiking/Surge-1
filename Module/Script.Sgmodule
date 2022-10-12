@@ -24,12 +24,12 @@
 
 [Script]
 # 微博去广告
-微博去开屏 = type=http-response,pattern=^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo_launch.js,script-update-interval=0
+微博去开屏 = type=http-response,pattern=^https?://(sdk|wb)app\.uve\.weibo\.com(/interface/sdk/sdkad.php|/wbapplua/wbpullad.lua),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/zmqcherish/proxy-script/main/weibo_launch.js
 # 微信去广告
 微信公众号 = script-path=https://hub.nange.cn/Script/WeChat/WeChat.js,type=http-request,pattern=^https://mp\.weixin\.qq\.com/mp/getappmsgad
 # 贴吧去广告
-贴吧json = type=http-response,pattern=^http(s:\/\/tiebac|:\/\/c\.tieba)\.baidu\.com\/(tiebaads\/commonbatch|c\/s\/sync),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/tieba-json.js,script-update-interval=0
-贴吧proto = type=http-response,pattern=^http(s:\/\/tiebac|:\/\/c\.tieba)\.baidu\.com\/c\/f\/(frs\/(page|threadlist|generalTabList)|pb\/page|excellent\/personalized),requires-body=1,binary-body-mode=1,max-size=0,script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/tieba-proto.js,script-update-interval=0
+贴吧json = type=http-response,pattern=^http(s:\/\/tiebac|:\/\/c\.tieba)\.baidu\.com\/(tiebaads\/commonbatch|c\/s\/sync),requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/tieba-json.js
+贴吧proto = type=http-response,pattern=^http(s:\/\/tiebac|:\/\/c\.tieba)\.baidu\.com\/c\/f\/(frs\/(page|threadlist|generalTabList)|pb\/page|excellent\/personalized),requires-body=1,binary-body-mode=1,max-size=0,script-path=https://raw.githubusercontent.com/app2smile/rules/master/js/tieba-proto.js
 # < 哔哩哔哩脚本去广告
 BiliBili_推荐去广告 = type=http-response,requires-body=1,max-size=0,pattern=^https?:\/\/app\.bilibili\.com\/x\/v2\/feed\/index,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.js
 BiliBili_追番去广告 = type=http-response,requires-body=1,max-size=0,pattern=^https?:\/\/api\.bilibili\.com\/pgc\/page\/bangumi,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.js
@@ -39,7 +39,7 @@ BiliBili_开屏去广告 = type=http-response,requires-body=1,max-size=0,pattern
 BiliBili_标签页处理 = type=http-response,requires-body=1,max-size=0,pattern=^https?:\/\/app\.bilibili\.com\/x\/resource\/show\/tab,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/bilibili/bilibili_plus.js
 BiliBili_我的页面处理 = type=http-response,requires-body=1,max-size=0,pattern=^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/mine,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/bilibili_json.js
 解锁B站高画质 = type=http-response,pattern=^https?:\/\/app\.bilibili\.com\/x\/v2\/account\/myinfo\?,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/bilibili_json.js
-去除热搜发现 = type=http-response,pattern=^https://app.bilibili.com/x/v2/search/square,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/bilibili_json.js,script-update-interval=0
+去除热搜发现 = type=http-response,pattern=^https://app.bilibili.com/x/v2/search/square,requires-body=1,max-size=0,script-path=https://raw.githubusercontent.com/ddgksf2013/Cuttlefish/master/Script/bilibili_json.js
 # 京东历史价格
 京东比价 = type=http-response,requires-body=1,pattern=^https?://api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig|basicConfig),script-path=https://raw.githubusercontent.com/githubdulong/Script/master/jd_price.js
 # < 知乎脚本去广告
@@ -56,7 +56,7 @@ BiliBili_我的页面处理 = type=http-response,requires-body=1,max-size=0,patt
 知乎_评论去广告 = type=http-response,requires-body=1,max-size=0,pattern=^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/(comment_v5\/)?(answers|comments?|articles|pins)\/\d+\/(root_|child_)?comments?,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu.js
 知乎_解锁关键词屏蔽 = type=http-request,requires-body=1,max-size=0,pattern=^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/feed-root\/block,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu.js
 知乎_移除推荐页顶部项 = type=http-request,requires-body=1,max-size=0,pattern=^https?:\/\/(api\.zhihu\.com|(103\.41\.167\.(226|234|235|236)))\/feed-root\/sections\/query\/v2,script-path=https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/script/zhihu/zhihu.js
-酷安去广告 = type=http-response,pattern=^https?:\/\/api\.coolapk\.com\/v6\/(feed\/(replyList|detail)|main\/indexV8|dataList),requires-body=1,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/coolapk.js,script-update-interval=0,max-size=0
+酷安去广告 = type=http-response,pattern=^https?:\/\/api\.coolapk\.com\/v6\/(feed\/(replyList|detail)|main\/indexV8|dataList),requires-body=1,max-size=0,script-path=https://github.com/ddgksf2013/Cuttlefish/raw/master/Script/coolapk.js
 
 [MITM]
 hostname = %APPEND% api.coolapk.com, list-app-m.i4.cn, m.client.10010.com, amap-aos-info-nogw.amap.com, *.uve.weibo.com, mp.weixin.qq.com, tiebac.baidu.com, app.bilibili.com,api.bilibili.com,api.live.bilibili.com,api.vc.bilibili.com, api.m.jd.com, www.zhihu.com,api.zhihu.com,zhuanlan.zhihu.com,appcloud2.zhihu.com,103.41.167.236,103.41.167.234,103.41.167.235,103.41.167.226
