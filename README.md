@@ -56,6 +56,7 @@
 |:sweat_drops:Picsew|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Picsew)|截图
 |:sweat_drops:Scanner Pro|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Scanner%20Pro)|文档扫描
 |:sweat_drops:Tweetbot|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Tweetbot)|第三方推特
+|:sweat_drops:Bdcloud|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Bdcloud)|懂得都懂
 
 </details>
 
