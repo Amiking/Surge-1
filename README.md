@@ -55,6 +55,7 @@
 |:sweat_drops:KuWo|[链接地址](https://raw.githubusercontent.com/I-am-R-E/Functional-Store-Hub/Master/KuWoMusic/KuWoMusic.Surge.sgmodule)|音乐播放
 |:sweat_drops:Picsew|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Picsew)|截图
 |:sweat_drops:Scanner Pro|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Scanner%20Pro)|文档扫描
+|:sweat_drops:Tweetbot|[链接地址](https://raw.githubusercontent.com/Hpxwd/Surge/main/Module/Tweetbot)|第三方推特
 
 </details>
 
